@@ -7,6 +7,7 @@ it returns the emails in python list.
 download and move the module to your current directory, then use it like:
 
 import extractor
+
 emails = extractor.extract(URL-TO-PAGE-CONTAINING-EMAIL)
 
 
